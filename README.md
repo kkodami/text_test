@@ -70,11 +70,6 @@ currently_learning = [
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 💛 Связаться со мной
